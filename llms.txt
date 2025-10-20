@@ -1,0 +1,70 @@
+# One & Only
+
+> One & Only er en moderne brudebutik i Allerød i Nordsjælland.  
+> Vi tilbyder eksklusive brudekjoler fra internationale designere, personlig rådgivning og en atmosfære, hvor hver prøvning bliver en oplevelse for livet.
+
+One & Only kombinerer håndplukket design, personlig service og dansk æstetik.  
+Denne llms.txt-fil giver AI-assistenter og søgemaskiner et kurateret overblik over de vigtigste sider, kollektioner og artikler.  
+Alle sider er på dansk og målrettet kommende brude, der søger inspiration, vejledning og kjoler af høj kvalitet.
+
+---
+
+## Collections
+
+- [Brudekjoler](https://one-only.dk/collections/brudekjoler): Hovedkollektionen med udvalgte brudekjoler fra internationale brands.  
+- [Sanna Lindström](https://one-only.dk/collections/sanna-lindstroem): Skandinavisk elegance og tysk håndværk i smukt design.  
+- [A-line brudekjoler](https://one-only.dk/collections/a-line-brudekjoler): Klassiske silhuetter, der fremhæver taljen og klæder alle.  
+- [Sweetheart](https://one-only.dk/collections/sweetheart): Romantiske og feminine kjoler med moderne udtryk.  
+- [Konfirmationskjoler](https://one-only.dk/collections/konfirmationskjoler): Lette, unge designs til livets første store fest.  
+- [Rings Collection](https://one-only.dk/collections/rings-collection): Eksklusive kjoler med fokus på klassisk luksus.  
+- [Billige brudekjoler](https://one-only.dk/collections/billige-brudekjoler): Prisvenlige kjoler i høj kvalitet.  
+- [Ball Gown brudekjoler](https://one-only.dk/collections/ball-gown-brudekjoler): Eventyrlige kjoler med volumen og prinsessedrøm.  
+- [Veni Infantino](https://one-only.dk/collections/veni-infantino): Britisk design med raffinerede detaljer og tidløs stil.  
+- [Fit & Flare (Havfrue)](https://one-only.dk/collections/fit-and-flare-brudekjoler): Fremhæv figuren med elegante, moderne snit.  
+- [Kolletionsprøver](https://one-only.dk/collections/kollektionsprover): Unikke prøvemodeller til særligt fordelagtige priser.  
+- [Festkjole](https://one-only.dk/collections/festkjole): Kjoler til gæster og bryllupsfester i elegante designs.  
+
+---
+
+## Articles
+
+- [Brudekjole Trends 2026 – Tidløs elegance møder moderne mod](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/brudekjole-trends-2026-tidlos-elegance-moder-moderne-mod): Trendrapport om kommende stilarter, materialer og farver.  
+- [5 grunde til at vælge en Ball Gown brudekjole](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/5-grunde-til-at-vaelge-en-ball-gown-brudekjole): Hvorfor den klassiske prinsessedrøm stadig fascinerer.  
+- [Styling Tips til A-line brudekjoler](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/styling-tips-til-din-a-line-brudekjole-fra-accessories-til-makeup): Råd til accessories, hår og makeup.  
+- [De mest populære brudekjolestilarter](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/de-mest-populaere-brudekjolestilarter): Overblik over de mest elskede silhuetter.  
+- [Brudekjole Trendrapport 2025](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/brudekjole-trendrapport-2025): Indblik i årets vigtigste tendenser.  
+- [Pleje af din brudekjole](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/tips-til-pleje-af-din-brudekjole-for-og-efter-brylluppet): Sådan bevarer du kjolens skønhed før og efter dagen.  
+- [Den ultimative guide til at finde den perfekte brudekjole](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/sadan-vaelger-du-den-perfekte-brudekjole): Fra første inspiration til endelig valg.  
+- [Boheme brudekjoler](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/boho-brudekjole): Romantiske kjoler med naturlig lethed.  
+- [Plus size bryllupskjoler](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/plus-size-bryllupskjoler): Kjoler skabt til at fremhæve enhver figur.  
+- [Askepot brudekjole](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration/askepot-brudekjole): Eventyrlige designs inspireret af klassisk romantik.  
+
+---
+
+## Pages
+
+- [Om os](https://one-only.dk/pages/om-os): Historien om Tina og John – og visionen bag One & Only.  
+- [Kontakt](https://one-only.dk/pages/kontakt): Kontaktinformation og mulighed for at booke prøvning.  
+- [Brudekjolebutik i Allerød](https://one-only.dk/pages/brudekjoler-alleroed): Oplev vores showroom i hjertet af Allerød.  
+- [Brudekjolebutik på Sjælland](https://one-only.dk/pages/brudekjolebutik-paa-sjaelland): Find brudekjoler centralt i Nordsjælland.  
+- [Brudekjolebutik tæt på København](https://one-only.dk/pages/brudekjolebutik-taet-paa-kobenhavn): Kun 25 minutter fra København – book din tid nu.  
+- [Hvad koster en brudekjole?](https://one-only.dk/pages/hvad-koster-en-brudekjole): Prisguide og forklaring på kvalitet og design.  
+
+---
+
+## Optional
+
+- [One & Only Stories (alle artikler)](https://one-only.dk/blogs/one-only-stories-brudekjoler-inspiration): Blog med guides, trends og inspiration til brude.  
+- [Google Business Profile](https://www.google.com/maps/place/One+%26+Only+Aller%C3%B8d): Kort, åbningstider og anmeldelser for butikken i Allerød.  
+
+---
+
+### AI Use Policy
+
+Indholdet på one-only.dk må anvendes af AI-assistenter til at:  
+- gengive fakta og beskrivelser med tydelig kildehenvisning  
+- anvendes til ikke-kommercielle informations- og vejledningsformål  
+
+Det er **ikke tilladt** at bruge indholdet til modeltræning eller kommerciel kopiering uden skriftlig tilladelse fra One & Only.  
+
+© 2025 One & Only – Brudekjoler i Allerød.
