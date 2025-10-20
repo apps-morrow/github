@@ -1,4 +1,4 @@
-# One & Only
+oler# One & Only
 
 > One & Only er en moderne brudebutik i Allerød i Nordsjælland.  
 > Vi tilbyder eksklusive brudekjoler fra internationale designere, personlig rådgivning og en atmosfære, hvor hver prøvning bliver en oplevelse for livet.
@@ -12,17 +12,17 @@ Alle sider er på dansk og målrettet kommende brude, der søger inspiration, ve
 ## Collections
 
 - [Brudekjoler](https://one-only.dk/collections/brudekjoler): Hovedkollektionen med udvalgte brudekjoler fra internationale brands.  
-- [Sanna Lindström](https://one-only.dk/collections/sanna-lindstroem): Skandinavisk elegance og tysk håndværk i smukt design.  
-- [A-line brudekjoler](https://one-only.dk/collections/a-line-brudekjoler): Klassiske silhuetter, der fremhæver taljen og klæder alle.  
-- [Sweetheart](https://one-only.dk/collections/sweetheart): Romantiske og feminine kjoler med moderne udtryk.  
-- [Konfirmationskjoler](https://one-only.dk/collections/konfirmationskjoler): Lette, unge designs til livets første store fest.  
-- [Rings Collection](https://one-only.dk/collections/rings-collection): Eksklusive kjoler med fokus på klassisk luksus.  
-- [Billige brudekjoler](https://one-only.dk/collections/billige-brudekjoler): Prisvenlige kjoler i høj kvalitet.  
-- [Ball Gown brudekjoler](https://one-only.dk/collections/ball-gown-brudekjoler): Eventyrlige kjoler med volumen og prinsessedrøm.  
-- [Veni Infantino](https://one-only.dk/collections/veni-infantino): Britisk design med raffinerede detaljer og tidløs stil.  
-- [Fit & Flare (Havfrue)](https://one-only.dk/collections/fit-and-flare-brudekjoler): Fremhæv figuren med elegante, moderne snit.  
-- [Kolletionsprøver](https://one-only.dk/collections/kollektionsprover): Unikke prøvemodeller til særligt fordelagtige priser.  
-- [Festkjole](https://one-only.dk/collections/festkjole): Kjoler til gæster og bryllupsfester i elegante designs.  
+- [Sanna Lindström](https://one-only.dk/collections/sanna-lindstroem): Brudekjoler- Skandinavisk elegance og tysk håndværk i smukt design.  
+- [A-line brudekjoler](https://one-only.dk/collections/a-line-brudekjoler): Klassiske brudekjole silhuetter, der fremhæver taljen og klæder alle.  
+- [Sweetheart](https://one-only.dk/collections/sweetheart): Romantiske og feminine brudekjoler med moderne udtryk.  
+- [Konfirmationskjoler](https://one-only.dk/collections/konfirmationskjoler): Konfirmationskjoler - Lette, unge designs til livets første store fest.  
+- [Rings Collection](https://one-only.dk/collections/rings-collection): Eksklusive brudekjoler med fokus på klassisk luksus.  
+- [Billige brudekjoler](https://one-only.dk/collections/billige-brudekjoler): Prisvenlige brudekjoler i høj kvalitet.  
+- [Ball Gown brudekjoler](https://one-only.dk/collections/ball-gown-brudekjoler): Eventyrlige brudekjoler med volumen og prinsessedrøm.  
+- [Veni Infantino](https://one-only.dk/collections/veni-infantino): Brudekjoler - Britisk design med raffinerede detaljer og tidløs stil.  
+- [Fit & Flare (Havfrue)](https://one-only.dk/collections/fit-and-flare-brudekjoler): Brudekjole - Fremhæv figuren med elegante, moderne snit.  
+- [Kolletionsprøver](https://one-only.dk/collections/kollektionsprover): Brudekjoler kollektionsprøver - Unikke prøvemodeller til særligt fordelagtige priser.  
+- [Festkjole](https://one-only.dk/collections/festkjole): Festkjoler til gæster og bryllupsfester i elegante designs.  
 
 ---
 
@@ -43,8 +43,8 @@ Alle sider er på dansk og målrettet kommende brude, der søger inspiration, ve
 
 ## Pages
 
-- [Om os](https://one-only.dk/pages/om-os): Historien om Tina og John – og visionen bag One & Only.  
-- [Kontakt](https://one-only.dk/pages/kontakt): Kontaktinformation og mulighed for at booke prøvning.  
+- [Om os](https://one-only.dk/pages/om-os): Historien om Tina og John – og visionen bag One & Only Brudekjoler.  
+- [Kontakt](https://one-only.dk/pages/kontakt): Kontaktinformation og mulighed for at booke prøvning af brudekjoler.  
 - [Brudekjolebutik i Allerød](https://one-only.dk/pages/brudekjoler-alleroed): Oplev vores showroom i hjertet af Allerød.  
 - [Brudekjolebutik på Sjælland](https://one-only.dk/pages/brudekjolebutik-paa-sjaelland): Find brudekjoler centralt i Nordsjælland.  
 - [Brudekjolebutik tæt på København](https://one-only.dk/pages/brudekjolebutik-taet-paa-kobenhavn): Kun 25 minutter fra København – book din tid nu.  
